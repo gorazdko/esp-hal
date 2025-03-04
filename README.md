@@ -50,7 +50,7 @@ When browsing the examples, we recommend viewing the tag for the `esp-hal` relea
 
 ### Getting Started by Gorazd
 
-## Install Toolchain
+#### Install Toolchain
 
 $ rustup toolchain install nightly --component rust-src   // source: https://docs.esp-rs.org/book/installation/riscv.html
 
@@ -71,7 +71,7 @@ $ espup install
 $ cargo install cargo-espflash    // source:  https://docs.esp-rs.org/book/tooling/espflash.html#espflash-1
 $ cargo install espflash
 
-## Build, flash and run example
+#### Build, flash and run example
 
 Run command from the root folder of the repository.
 
