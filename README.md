@@ -54,7 +54,8 @@ When browsing the examples, we recommend viewing the tag for the `esp-hal` relea
 
 $ rustup toolchain install nightly --component rust-src   // source: https://docs.esp-rs.org/book/installation/riscv.html
 
-$ rustup target add riscv32imc-unknown-none-elf
+$ rustup target add riscv32imc-unknown-none-elf  
+
 $ rustup target add riscv32imac-unknown-none-elf
 
 
