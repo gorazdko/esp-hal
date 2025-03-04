@@ -69,7 +69,8 @@ $ espup install
 ```
 
 
-$ cargo install cargo-espflash    // source:  https://docs.esp-rs.org/book/tooling/espflash.html#espflash-1
+$ cargo install cargo-espflash    // source:  https://docs.esp-rs.org/book/tooling/espflash.html#espflash-1  
+
 $ cargo install espflash
 
 #### Build, flash and run example
