@@ -60,6 +60,7 @@ $ rustup target add riscv32imac-unknown-none-elf
 
 
 $ cargo install espup    // source: https://docs.esp-rs.org/book/installation/riscv-and-xtensa.html
+ 
 $ espup install
 
 ```
